@@ -1,4 +1,4 @@
-# Hunters Paradise
+# BidIT
 
 A Peer to peer rare commodities exchange place, where users can buy and sell rare products through auctions and deals. They will be notified in real-time about each update.
 
