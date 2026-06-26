@@ -59,35 +59,7 @@ You must see the site UI live on localhost:3000, you can login and enter the das
 - **Cutting-Edge Technologies**: Leveraged React, Redux, Ably, and Node.js to ensure seamless, instant updates, and
   notifications for users, providing a responsive and engaging user experience
 
-## Images :
 
-### Authentication
-
-![Login](./images/login.png)
-
-### Realtime Dashboard
-
-![Dashboard](./images/dashboard.png)
-
-### Live Auction Page
-
-![Live Auction](./images/liveAuction.png)
-
-### All Deals Page
-
-![All Deals](./images/deals.png)
-
-### Deal Details Page
-
-![Deal Details](./images/dealDetails.png)
-
-### Billing Page
-
-![Billing](./images/Billing.png)
-
-### Profile Page
-
-![Profile](./images/profilePage.png)
 
 ### Change themes according to your needs
 
