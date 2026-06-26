@@ -22,8 +22,8 @@ Follow these steps to get the project up and running.
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/Pranav915/HuntersParadise.git
-cd HuntersParadise
+git clone [https://github.com/Digvijay498/BidIT.git]
+cd BidIT
 ```
 
 ### Step 2: Setup the env variables in .env file in server folder
@@ -50,7 +50,7 @@ You must see the site UI live on localhost:3000, you can login and enter the das
 
 ## Description :
 
-- **Real-Time Rare Commodity Exchange**: Hunter's Paradise is a dynamic online platform enabling real-time buying and selling
+- **Real-Time Rare Commodity Exchange**: BidIT is a dynamic online platform enabling real-time buying and selling
   of rare products through auctions and deals, enhancing user interaction.
 - **Live Dashboard**: Implemented a dynamic real-time dashboard, allowing users to track ongoing auctions and deals
   in real-time.
