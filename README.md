@@ -59,8 +59,3 @@ You must see the site UI live on localhost:3000, you can login and enter the das
 - **Cutting-Edge Technologies**: Leveraged React, Redux, Ably, and Node.js to ensure seamless, instant updates, and
   notifications for users, providing a responsive and engaging user experience
 
-
-
-### Change themes according to your needs
-
-![Themes](./images/Themes.png)
